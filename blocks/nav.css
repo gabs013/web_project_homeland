@@ -1,0 +1,27 @@
+.nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 2.66%;
+}
+
+.nav__logo {
+  max-width: 254.84px;
+  min-height: 68.94px;
+}
+
+@media screen and (max-width: 768px) {
+  .nav__logo {
+    max-width: 254px;
+    min-height: 66px;
+    padding-top: 30px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .nav__logo {
+    max-width: 188px;
+    min-height: 52px;
+    margin: 0 auto;
+  }
+}
