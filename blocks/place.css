@@ -29,7 +29,6 @@
   font-weight: 900;
   font-size: 72px;
   line-height: 76px;
-  letter-spacing: 0%;
   color: #ffffff;
 }
 
@@ -90,7 +89,6 @@
   font-weight: 400;
   font-size: 18px;
   line-height: 22px;
-  letter-spacing: 0%;
   color: #ffffff;
 }
 
@@ -105,7 +103,6 @@
   font-weight: 400;
   font-size: 18px;
   line-height: 163%;
-  letter-spacing: 0%;
   color: #ffffff;
 }
 
@@ -173,7 +170,6 @@
     font-size: 32px;
     line-height: 35px;
     align-self: end;
-    letter-spacing: 0%;
   }
 
   .place__span-accent {
