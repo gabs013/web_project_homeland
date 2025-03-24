@@ -176,6 +176,14 @@
     letter-spacing: 0%;
   }
 
+  .place__span-accent {
+    display: block;
+  }
+
+  .place__span-secondary {
+    display: block;
+  }
+
   .place__website {
     max-width: 288px;
     margin-left: 16px;
