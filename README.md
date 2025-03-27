@@ -14,3 +14,8 @@ Para el desarrollo del proyecto se usaron las siguientes herramientas y técnica
 
 - **HTML5**: Para la estructura semántica del sitio.
 - **CSS3**: Incluyendo el uso de **Flexbox** **Diseño Responsivo**
+
+## 🚀 Despliegue del Proyecto
+
+Puedes ver el proyecto en línea a través de GitHub Pages:
+📁 [Mi proyecto en GitHub Pages](https://gabs013.github.io/web_project_homeland/)
